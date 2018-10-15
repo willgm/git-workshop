@@ -1,3 +1,3 @@
 # Exercicio 1
 
-Essa branch tem muitos commits
+Essa branch tem muitos commits parciais
